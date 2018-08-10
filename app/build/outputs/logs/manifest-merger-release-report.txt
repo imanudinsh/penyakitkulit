@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:9:22-69
+application
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:11:5-44:19
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.4] C:\Users\BAJANK\.android\build-cache\67c0264a8b08201a4993a21aabc1d0f44bfc591e\output\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\BAJANK\.android\build-cache\0fffd8d3315aee870ad126f56802c4eab09bf031\output\AndroidManifest.xml:22:5-20
+MERGED from [com.github.yalantis:Side-Menu.Android:1.0.1] C:\Users\BAJANK\.android\build-cache\7d300fabbed2d5c758ed9a4bc650577487270c3d\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\BAJANK\.android\build-cache\4674757ecbd4afbf5d82adb5709f261855b5e781\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\BAJANK\.android\build-cache\abf23d9364f10e46266d5f2599193c1978c9e8cf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\BAJANK\.android\build-cache\fe02d7ffa1dff776f1ce4428ce6e7262e01f5ad6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\BAJANK\.android\build-cache\42c14298085a8776f78fe9938eb4b39621bc951f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\BAJANK\.android\build-cache\783077fc880653973f890e43c96fd7a3077ae7f3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\BAJANK\.android\build-cache\3556821ebceff7dd3972bf55f57b691e4be4f4a0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\BAJANK\.android\build-cache\b874d489272337e1e0137eb8d3fe6fb716bc749f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\BAJANK\.android\build-cache\f945690190c1e01a62e25129da23299e2639bb9c\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\BAJANK\.android\build-cache\81a3a3ca76f64555e25a593f825779140594348f\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.im.penyakitkulit.MainActivity
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:label
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:19:13-59
+	android:theme
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:18:13-41
+activity#com.im.penyakitkulit.LoginActivity
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:label
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:25:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.im.penyakitkulit.RegisterActivity
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:34:9-39:20
+	android:label
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:36:13-45
+	android:theme
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:35:13-45
+activity#com.im.penyakitkulit.DetailPenyakitActivity
+ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:theme
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml:40:19-57
+uses-sdk
+INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.4] C:\Users\BAJANK\.android\build-cache\67c0264a8b08201a4993a21aabc1d0f44bfc591e\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:24.2.1] C:\Users\BAJANK\.android\build-cache\0fffd8d3315aee870ad126f56802c4eab09bf031\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\BAJANK\.android\build-cache\2b6a655fad2805f1a1c81ccd25d64e2d6a3c27e8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.github.yalantis:Side-Menu.Android:1.0.1] C:\Users\BAJANK\.android\build-cache\7d300fabbed2d5c758ed9a4bc650577487270c3d\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\BAJANK\.android\build-cache\4674757ecbd4afbf5d82adb5709f261855b5e781\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\BAJANK\.android\build-cache\abf23d9364f10e46266d5f2599193c1978c9e8cf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\BAJANK\.android\build-cache\fe02d7ffa1dff776f1ce4428ce6e7262e01f5ad6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\BAJANK\.android\build-cache\42c14298085a8776f78fe9938eb4b39621bc951f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\BAJANK\.android\build-cache\783077fc880653973f890e43c96fd7a3077ae7f3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\BAJANK\.android\build-cache\3556821ebceff7dd3972bf55f57b691e4be4f4a0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\BAJANK\.android\build-cache\b874d489272337e1e0137eb8d3fe6fb716bc749f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\BAJANK\.android\build-cache\f945690190c1e01a62e25129da23299e2639bb9c\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\BAJANK\.android\build-cache\81a3a3ca76f64555e25a593f825779140594348f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\BAJANK\.android\build-cache\4674757ecbd4afbf5d82adb5709f261855b5e781\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Project\SPK\app\src\main\AndroidManifest.xml

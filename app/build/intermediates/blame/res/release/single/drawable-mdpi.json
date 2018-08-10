@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android\\Project\\SPK\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\icn_2.png",
+        "source": "D:\\android\\Project\\SPK\\app\\src\\main\\res\\drawable-mdpi\\icn_2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\SPK\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\icn_1.png",
+        "source": "D:\\android\\Project\\SPK\\app\\src\\main\\res\\drawable-mdpi\\icn_1.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\SPK\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\icn_4.png",
+        "source": "D:\\android\\Project\\SPK\\app\\src\\main\\res\\drawable-mdpi\\icn_4.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\SPK\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\icn_close.png",
+        "source": "D:\\android\\Project\\SPK\\app\\src\\main\\res\\drawable-mdpi\\icn_close.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\SPK\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\icn_3.png",
+        "source": "D:\\android\\Project\\SPK\\app\\src\\main\\res\\drawable-mdpi\\icn_3.png"
+    }
+]

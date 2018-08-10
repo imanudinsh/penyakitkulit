@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5596e6</color>
+    <color name="colorPrimaryDark2">#3d70b2</color>
+    <color name="colorPrimaryDark">#252D38</color>
+    <color name="colorAccent">#AFB42B</color>
+    <color name="colorBackground">#ececec</color>
+
+
+
+    <color name="palmLeaf">#3A4039</color>
+    <color name="nobel">#A2A2A2</color>
+    <color name="honeyDew">#FCFDFC</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="blackTransparant">#59000000</color>
+</resources>

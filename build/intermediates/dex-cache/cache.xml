@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\3774068215c017c109dae71e646b15d6ad2099b8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3cc528b0740a6e9c1b7711cf2aee225888b12469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\b31b4440e29edfeb03c37932be0a654133033247\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_769a15ebe8bc1a79eba816a1187b183ccf102fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\eee89041ff2b47737bd3ac7715e86464fa5fe276\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_80e81054c87a359880761981606c4ead22a71d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\29bb21aa651671f20c4a91b2b250a052c0a6de11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_f8edeff37bb4ce21618f2841305d126a5c6e1e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.ibm.mobilefirstplatform.clientsdk.android\analyticsapi\1.1.1\4dea113abdde297a40c472987b4d03886c9228a8\analyticsapi-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4dea113abdde297a40c472987b4d03886c9228a8">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\analyticsapi-1.1.1_850f2c346f4c9d1a48335ade65fe2a3e25f2210a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\gson-2.6.2_ca6e4802761dc8243cfe5a22d9465d0ae16bea9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\56c88c85048917fa3d6e9546465352807a0c04cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_41034c7c5d187a6e2d9c93a8c5f1fa3432fdd6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\32c39c9ab74b35bed5788f5103a866dd0e9000de\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_aa397f5e12c1b01f60111112956fefffc617d829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.3.1\14e70f2069fb98dc60346dd24cb7b6a2e321580d\okhttp-urlconnection-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.3.1_224fcbbe0b02546c2c4f64718838cc2535b87d00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\eee89041ff2b47737bd3ac7715e86464fa5fe276\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a61ae9eb5ec00b49a71f30a8baa6990b45302be1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\62101a6ca8a1a1e8d7d2bfad7dbd2987e2b3d63d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_3ad98724ea70e22ce67185e2aef301e105d4aede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\b31b4440e29edfeb03c37932be0a654133033247\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_580d3228e7d1d1ed78c61bc700762dde723e2e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.3.1\ebca9fdfbef870042a19aec6a5b7a21d72639310\okhttp-ws-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebca9fdfbef870042a19aec6a5b7a21d72639310">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.3.1_c872e11d33c17c38a5c4062f7a129779e7227637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\f8daf4d6bdc4d3bdf32db4fea636c87a07c0775d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_548513ef1b12b4abd10353b2da436e9bb0e80ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\84c87faef7b0854f7511dcb2702d127c3ef33b60\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_91f214d6fb7f6a79d8d0e1f07d85f0712b913f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f0edfc4b6c205081d72068144ed45715cd08ad83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_4b1fe33ba29f8c0b31701108c49c5e4c5f1a260d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\3774068215c017c109dae71e646b15d6ad2099b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_02ac2b0c1abe7d2a1b035d259a7f07ecf38e3421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\okio-1.8.0_60d0ebb64320fe8296a0118e66c7c96d7a3e6984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_af608c91a010c141e639791e4eda55036202874e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\84c87faef7b0854f7511dcb2702d127c3ef33b60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_2397daafc871206c962ff4765b18a9fe44a49c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\jersey-jsr166e-2.22.2_496fed2ca0f7b63c676f5f8fa2301a97e4b45794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\java-sdk\3.3.1\dce8eed9cb740d2370d1bcd5bf56f4f0bca1ca04\java-sdk-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce8eed9cb740d2370d1bcd5bf56f4f0bca1ca04">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\java-sdk-3.3.1_c19d31a3fbdda51a106f782c15867e7385e51880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\72ce36580020a1b9c10d8be895fd1d78aec39d5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_494b49e4eb07a26d9fbcc3f62d087a526bcc65f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\library-2.4.0_14ea6ebac0456011e582109961e2e39ba888cf9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\41570d90419e342319ed2674f4bad4904b192513\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e9634168413b1752941c036e5e4b1c00439b90f">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_f385858ca69d1378bb5e2a3d6ed076d7ee432492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.ibm.mobilefirstplatform.clientsdk.android\core\2.2.7\19dea1e04540a09362da2572d09f8b4dffaad61e\core-2.2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19dea1e04540a09362da2572d09f8b4dffaad61e">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\core-2.2.7_89fb1515f98a9fdc2dff890cea02aa1207b62de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_98bdcde44d9d829318f55cbcfa8addda8fa49f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\c594711d2c9fa13b34412a83e5a359c504d16442\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_f8a3e046ce6bf2acf3667567f275f9df280cd665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.4\f2c0782541a970b3c15f5e742999ca264b34d0bd\okhttp-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2c0782541a970b3c15f5e742999ca264b34d0bd">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\okhttp-2.7.4_349bd67ac83bfee03d3e267508717ab202be5795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\f6ed43a58ff3e6b00272630d1e2d87f580721801\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c231461bd4ab97550b0b053c159e4f13ffc869">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_080b846d5a3384f14a0e819037bb2bfc62e460ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.android\build-cache\32c39c9ab74b35bed5788f5103a866dd0e9000de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\android\Project\SPK\app\build\intermediates\pre-dexed\debug\classes_6cf70c116d8b2a133de14433081622b3d2517a2f.jar" />
+    </item>
+
+</items>
